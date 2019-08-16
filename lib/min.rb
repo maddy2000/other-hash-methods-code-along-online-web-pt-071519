@@ -9,5 +9,5 @@ require 'pry'
 # }
 
 def get_the_min(groceries)
-  alphabetical_order.min
+  groceries.alphabetical_order.min
 end
