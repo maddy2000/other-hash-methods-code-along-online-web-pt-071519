@@ -11,4 +11,4 @@ require 'pry'
 def get_the_values(groceries)
   binding.pry
     groceries.values
-endv
+end
