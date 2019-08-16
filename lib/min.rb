@@ -10,5 +10,5 @@ require 'pry'
 
 def get_the_min(groceries)
   alphabetical_order = values
-  groceries.alphabetical_order.min
+  values.alphabetical_order.min
 end
